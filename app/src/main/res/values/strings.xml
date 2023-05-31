@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn Exchange Rate</string>
+    <string name="select">Select Exchange Rate</string>
+    <string name="forex_buy">Forex Buy</string>
+    <string name="forex_sell">Forex Sell</string>
+    <string name="banknote_sell">Bank. Sell</string>
+    <string name="banknote_buy">Bank. Buy</string>
+</resources>
