@@ -1,5 +1,5 @@
 # Exchange Rate App
-A mobile application where you can learn current exchange rate conversions.
+A mobile application developed as a homework within the scope of Turkcell Kotlin Bootcamp, where you can learn the current exchange rate conversions.
 
 ## Tools Used in the Application
 
